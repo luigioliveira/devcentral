@@ -4,6 +4,7 @@ public class Welcome3 {
 
 	public static void main(String[] args) {
 		// Pull do Github. 
+		// Commit individual do arquivo. 
 		int weight; //peso
 		double height; //altura
 		
